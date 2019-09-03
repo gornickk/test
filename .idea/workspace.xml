@@ -3,34 +3,41 @@
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
       <map>
-        <entry key="$USER_HOME$/Desktop/SREPOS/analytics-ui" value="PREVIEW" />
-        <entry key="$USER_HOME$/Desktop/SREPOS/backoffice-web" value="PREVIEW" />
-        <entry key="$USER_HOME$/Desktop/SREPOS/blue-steel" value="PREVIEW" />
-        <entry key="$USER_HOME$/Desktop/SREPOS/campaigns-ui" value="PREVIEW" />
-        <entry key="$USER_HOME$/Desktop/SREPOS/candidate-page-ui" value="PREVIEW" />
-        <entry key="$USER_HOME$/Desktop/SREPOS/candidate-portal-ui" value="PREVIEW" />
-        <entry key="$USER_HOME$/Desktop/SREPOS/candidate-ui" value="PREVIEW" />
-        <entry key="$USER_HOME$/Desktop/SREPOS/career-site-ui" value="PREVIEW" />
-        <entry key="$USER_HOME$/Desktop/SREPOS/crm-ui" value="PREVIEW" />
-        <entry key="$USER_HOME$/Desktop/SREPOS/i18n" value="PREVIEW" />
-        <entry key="$USER_HOME$/Desktop/SREPOS/identity-provider" value="PREVIEW" />
-        <entry key="$USER_HOME$/Desktop/SREPOS/janosik-api" value="PREVIEW" />
-        <entry key="$USER_HOME$/Desktop/SREPOS/job-alerts-ui" value="PREVIEW" />
-        <entry key="$USER_HOME$/Desktop/SREPOS/jobad" value="PREVIEW" />
-        <entry key="$USER_HOME$/Desktop/SREPOS/lcf" value="PREVIEW" />
-        <entry key="$USER_HOME$/Desktop/SREPOS/one-click" value="PREVIEW" />
-        <entry key="$USER_HOME$/Desktop/SREPOS/partner-portal" value="PREVIEW" />
-        <entry key="$USER_HOME$/Desktop/SREPOS/people-ui" value="PREVIEW" />
-        <entry key="$USER_HOME$/Desktop/SREPOS/pp/partner-portal" value="PREVIEW" />
-        <entry key="$USER_HOME$/Desktop/SREPOS/questions-ui" value="PREVIEW" />
-        <entry key="$USER_HOME$/Desktop/SREPOS/referrals-portal" value="PREVIEW" />
-        <entry key="$USER_HOME$/Desktop/SREPOS/settings-ui" value="PREVIEW" />
-        <entry key="$USER_HOME$/Desktop/SREPOS/sr-jobs" value="PREVIEW" />
-        <entry key="$USER_HOME$/Desktop/SREPOS/test-app" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../analytics-ui" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../backoffice-web" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../blue-steel" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../campaigns-ui" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../candidate-page-ui" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../candidate-portal-ui" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../candidate-ui" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../career-site-ui" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../crm-ui" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../i18n" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../identity-provider" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../janosik-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../job-alerts-ui" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../jobad" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../lcf" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../one-click" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../partner-portal" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../people-ui" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../pp/partner-portal" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../questions-ui" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../referrals-portal" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../settings-ui" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../sr-jobs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../test-app" value="PREVIEW" />
       </map>
     </option>
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="841" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
