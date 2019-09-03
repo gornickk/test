@@ -13,3 +13,4 @@
 # test master
 # komit z intelliJ
 # new primary email
+# jakie imie mam
